@@ -1,7 +1,3 @@
-/* 
-    Chess Game Client 
-    cd "/home/seekwisdom/mine/" && gcc client.c -o client -lpthread -lncursesw && "/home/seekwisdom/mine/"client
- */
 #include <ncursesw/ncurses.h>
 #include <sys/socket.h>
 #include <arpa/inet.h>
