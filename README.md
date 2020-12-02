@@ -1,5 +1,5 @@
 # **Chess Game**
-Simple network chess game created with C
+Simple network chess game created with C.
 
 ## Sketch
 <img src="https://user-images.githubusercontent.com/48203569/100318194-feecd800-3000-11eb-9ed5-92cfc6788dd9.jpg" width="850" height="600">
